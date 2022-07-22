@@ -4873,5 +4873,3 @@
 -[@danielekpa](https://github.com/danielekpa)
 
 -[@HimanshuSinghR](https://github.com/HimanshuSinghR)
-
--[@Kapil527](https://github.com/Kapil527/)
